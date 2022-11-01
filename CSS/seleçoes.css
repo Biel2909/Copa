@@ -181,7 +181,7 @@ body{
     	height: 120px;
 	width: 80px;
 	position: relative;
-	left:40	
+	right: 40px;	
 	
 	}
 	#servia{
@@ -190,7 +190,7 @@ body{
     	position: relative;
     	left: 10px;
 	top: 5px;
-
+	right: 40px;
 	}
 	#suiça{
     	height: 120px;
