@@ -68,15 +68,15 @@ body{
 	}
 	#unidos{
     	height: 100px;
-	padding-left: 30px;
+	padding-left: 40px;
 	}
 	#gales{
     	height: 100px;
 	padding-left: 30px;
 	}
 	#argentina{
-    height: 120px;
-	padding-left: 123px;
+    	height: 120px;
+	padding-left: 30px;
 	position: relative;
 	right: 25px;
 	}
@@ -103,10 +103,10 @@ body{
 	padding-left: 30px;
 	position: relative;
 	right: 25px;
-	
+        bottom: 10px;
 	}
 	#australia{
-   	 height: 130px;
+   	height: 130px;
 	padding-left: 30px;
 	padding-top: 30px;
 	position: relative;
