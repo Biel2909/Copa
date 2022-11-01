@@ -115,8 +115,8 @@ body{
 	right: 25;
 	}
 	#dinamarca{
-   	 height: 110px;
-	padding-left: 15px;
+   	height: 110px;
+	padding-left: 20px;
 	position: relative;
 	right: 15px;
 	}
@@ -181,6 +181,7 @@ body{
     	height: 120px;
 	width: 80px;
 	position: relative;
+	left: 40px;
 	}
 	#servia{
     	height: 120px;
