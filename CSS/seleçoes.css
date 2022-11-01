@@ -131,13 +131,13 @@ body{
 	#espanha{
    	 height: 110px;
 	width: 80px;
-	padding-left: 20px; 
+	padding-left: 10px; 
 	}
 	#costa{
    	height: 140px;
 	padding-left: 2px; 
     	position: relative;
-	right: 30px;
+	right: 20px;
 	top: 17px;
 	}
 	#alemanha{
@@ -150,13 +150,13 @@ body{
 	#japão{
    	height: 100px;
 	position: relative;
-	right: 30px;
+	right: 20px;
   	}
     	#belgica{
     	height: 150px;
 	padding-left: 30px;
 	position: relative;
-	right: 50px;
+	right: 30px;
 	top: 15px;
 	}
 	#canada{
