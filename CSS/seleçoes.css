@@ -59,12 +59,12 @@ body{
 	}
 	#inglaterra{
     	height: 140px;
-	padding-left: 20px;
+	padding-left: 10px;
 	}
 	#ira{
     	height: 100px;
 	width: 80px;
-    	padding-left: 25px;
+    	padding-left: 15px;
 	}
 	#unidos{
     	height: 100px;
@@ -76,39 +76,39 @@ body{
 	}
 	#argentina{
     	height: 120px;
-	padding-left: 30px;
+	padding-left: 20px;
 	position: relative;
 	right: 25px;
 	}
 	#arabia{
     	height: 100px;
-	padding-left: 30px;
+	padding-left: 20px;
 	position: relative;
 	right: 25px;
 	bottom: 5px;
 	}
 	#mexico{
     	height: 120px;
-	padding-left: 30px;
+	padding-left: 20px;
 	position: relative;
 	right: 40px;
 	}
 	#polonia{
    	 height: 100px;
-	padding-left: 30px;
+	padding-left: 20px;
 	position: relative;
 	right: 45px
 	}
 	#frança{
     	height: 120px;
-	padding-left: 30px;
+	padding-left: 20px;
 	position: relative;
 	right: 25px;
         bottom: 10px;
 	}
 	#australia{
    	height: 130px;
-	padding-left: 30px;
+	padding-left: 20px;
 	padding-top: 30px;
 	position: relative;
 	top: 15px;
@@ -123,7 +123,7 @@ body{
 	#tunisia{
     	height: 140px;
 	padding-left: 2px;
-	padding-top: 30px;
+	padding-top: 20px;
 	position: relative;
 	top: 15px;
 	right: 15px;
