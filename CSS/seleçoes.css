@@ -55,7 +55,7 @@ body{
 	}
 	#holanda{
     	height: 115px;
-	padding-left: 20px;
+	padding-left: 15px;
 	}
 	#inglaterra{
     	height: 140px;
@@ -179,7 +179,7 @@ body{
 	#brasil{
     	height: 120px;
 	width: 80px;
-	padding-left: 105px; 
+	padding-left: 35px; 
 	position: relative;
 	top: 20px;
 	}
