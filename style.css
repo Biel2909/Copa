@@ -37,7 +37,7 @@ body{
 	}
 	#mascote{
 	position: relative;
-	left :30px;
+	left: 30px;
 	border: solid 10px #2b879e ;
 	height: 300px;
 	width: 300px;
@@ -45,7 +45,7 @@ body{
 	}	
 	#bola{
 	position: relative;
-	left :30px;
+	left: 30px;
 	border: solid 10px #2b879e ;
 	height: 300px;
 	width: 300px;
