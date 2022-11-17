@@ -5,8 +5,8 @@ body{
 	margin: 0 auto;
 	padding: 0;
 	box-sizing: border-box;
-    	}
-   	 #menu{
+    }
+    #menu{
 	list-style: none;	
 	padding: 2;	
 	background-color: #c90a00;
@@ -51,7 +51,15 @@ body{
 	width: 300px;
 	padding: left;	
 	}
-	
+	#pmascote{
+	display: flex;
+        align-items: center;	
+	}
+	#fotos {
+	list-style: none;
+	display: flex;
+	justify-content: space-around;	
+	}
 
 
 	
