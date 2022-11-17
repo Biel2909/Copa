@@ -47,8 +47,8 @@ body{
 	position: relative;
 	left : 700px;
 	padding: left;
-	}
-	#mascote{
+	}	
+	#bola{
 	position: relative;
 	left :30px;
 	border: solid 10px #2b879e ;
@@ -56,13 +56,11 @@ body{
 	width: 300px;
 	position: relative;
 	left : 700px;
-	}	
+	padding: left;	
+	}
 	#pmascote{
 	display: flex;
-        align-items: center;
-	border: solid 10px #2b879e ;	
-	height: 300px;
-	width: 300px;	
+        align-items: center;	
 	}
 
 
