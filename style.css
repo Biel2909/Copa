@@ -47,8 +47,9 @@ body{
 	position: relative;
 	left : 700px;	
 	}
-	#mascote, p{
-	display: inline-block	
+	#pmascote{
+	display: flex;
+        align-items: top;
 	}
 
 
