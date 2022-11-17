@@ -35,5 +35,11 @@ body{
 	position: relative;
 	bottom: 40px;
 	}
+	#mascote{
+	position: relative;
+	left :30px;
+	border: 40px	
+		
+	}
 	
 
