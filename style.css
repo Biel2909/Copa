@@ -36,14 +36,12 @@ body{
 	}
 	#mascote{
 	position: relative;
-	left: 30px;
 	border: solid 10px #2b879e ;
 	height: 300px;
 	width: 300px;
 	}	
 	#bola{
 	position: relative;
-	left: 30px;
 	border: solid 10px #2b879e ;
 	height: 300px;
 	width: 300px;	
@@ -56,6 +54,8 @@ body{
 	list-style: none;
 	display: flex;
 	justify-content: space-around;	
+	position: relative;
+	center	
 	}
 	#pbola{
 	font: 12px verdana, sans-serif;
