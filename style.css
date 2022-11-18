@@ -5,8 +5,8 @@ body{
 	margin: 0 auto;
 	padding: 0;
 	box-sizing: border-box;
-    }
-    #menu{
+    	}
+    	#menu{
 	list-style: none;	
 	padding: 2;	
 	background-color: #c90a00;
@@ -46,8 +46,7 @@ body{
 	left: 30px;
 	border: solid 10px #2b879e ;
 	height: 300px;
-	width: 300px;
-	padding: left;	
+	width: 300px;	
 	}
 	#pmascote{
 	display: flex;
