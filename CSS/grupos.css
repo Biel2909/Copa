@@ -27,5 +27,45 @@ body{
 	#menu li:hover{
 	background-color: #2b879e;
 	}
+	#fotos {
+	list-style: none;
+	padding: 10px 10px 10px 10px;
+	justify-content: space-around;	
+	position: relative;
+    top: 50px;
+	border:	solid 2px #2b879e ;
+	margin: 60px;
+	position: relative;
+	top: 40px;
+	}
 	
+	#catar {
+	height: 30px;
+	width: 30px;
+	padding:5px
+	}
+	#equador{
+	position: relative;
+	height: 30px;
+	width: 30px;
+	padding:5px
+	}	
+	#senegal{
+	position: relative;
+	height: 30px;
+	width: 30px;	
+	padding:5px
+	}
+	#holanda{
+	position: relative;
+	height: 30px;
+	width: 30px;	
+	padding:5px
+	}
+	#tabela{
+	position: relative;
+	left: 40px;
+	bottom:40px;
+	}	
 	
+		
