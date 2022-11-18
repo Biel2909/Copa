@@ -59,6 +59,8 @@ body{
 	}
 	#pbola{
 	font: 12px verdana, sans-serif;
+	position: relative;
+	right: 2px;	
 	}	
 		
 
