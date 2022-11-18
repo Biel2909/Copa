@@ -27,18 +27,61 @@ body{
 	#menu li:hover{
 	background-color: #2b879e;
 	}
-	#fotos {
+	#fotos {		
+	
+	padding: 30px;
+	margin: 40px;
+	border-radius: 40px;
+	box-shadow: 2px 2px 25px black;
+    right: 30px;
+	background-image: cover;
+	height:600px;
+	}
+	#gruposA{
+	list-style: none;	
 	list-style: none;
 	padding: 10px 10px 10px 10px;
-	justify-content: space-around;	
-	position: relative;
-    top: 50px;
 	border:	solid 2px #2b879e ;
 	margin: 60px;
 	position: relative;
 	top: 40px;
+	left: 150px;
+	width: 300px;
 	}
+	#gruposB{
+	list-style: none;	
+	list-style: none;
+	padding: 10px 10px 10px 10px;
+	border:	solid 2px #2b879e ;
+	margin: 60px;
+	position: relative;
+	bottom: 255px;
+	left: 600px;
+	width: 300px;
+	}
+	#gruposC{
+	list-style: none;	
+	list-style: none;
+	padding: 10px 10px 10px 10px;
+	border:	solid 2px #2b879e ;
+	margin: 60px;
+	position: relative;
+	bottom: 260px;
+	left: 150px;
+	width: 300px;
 	
+	}
+	#gruposD{
+	list-style: none;	
+	list-style: none;
+	padding: 10px 10px 10px 10px;
+	border:	solid 2px #2b879e ;
+	margin: 60px;
+	position: relative;
+	bottom: 555px;
+	left: 600px;
+	width: 300px;
+	}
 	#catar {
 	height: 30px;
 	width: 30px;
@@ -63,9 +106,8 @@ body{
 	padding:5px
 	}
 	#tabela{
-	position: relative;
-	left: 40px;
-	bottom:40px;
-	}	
+	
+	}
 	
 		
+	
