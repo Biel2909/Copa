@@ -35,7 +35,7 @@ body{
 	box-shadow: 2px 2px 25px black;
     right: 30px;
 	background-image: cover;
-	height:600px;
+	height:1500px;
 	}
 	#gruposA{
 	list-style: none;	
@@ -79,6 +79,50 @@ body{
 	margin: 60px;
 	position: relative;
 	bottom: 555px;
+	left: 600px;
+	width: 300px;
+	}
+	#gruposE{
+	list-style: none;	
+	list-style: none;
+	padding: 10px 10px 10px 10px;
+	border:	solid 2px #2b879e ;
+	margin: 60px;
+	position: relative;
+	bottom: 555px;
+	left: 150px;
+	width: 300px;
+	}
+	#gruposF{
+	list-style: none;	
+	list-style: none;
+	padding: 10px 10px 10px 10px;
+	border:	solid 2px #2b879e ;
+	margin: 60px;
+	position: relative;
+	bottom: 850px;
+	left: 600px;
+	width: 300px;
+	}
+	#gruposG{
+	list-style: none;	
+	list-style: none;
+	padding: 10px 10px 10px 10px;
+	border:	solid 2px #2b879e ;
+	margin: 60px;
+	position: relative;
+	bottom: 855px;
+	left: 150px;
+	width: 300px;
+	}
+	#gruposH{
+	list-style: none;	
+	list-style: none;
+	padding: 10px 10px 10px 10px;
+	border:	solid 2px #2b879e ;
+	margin: 60px;
+	position: relative;
+	bottom: 1145px;
 	left: 600px;
 	width: 300px;
 	}
