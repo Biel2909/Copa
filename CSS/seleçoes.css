@@ -27,131 +27,248 @@ body{
 	#menu li:hover{
 	background-color: #2b879e;
 	}
-	#fotos {		
-	
+	#times	{
 	padding: 30px;
 	margin: 40px;
 	border-radius: 40px;
 	box-shadow: 2px 2px 25px black;
     right: 30px;
 	background-image: cover;
-	height:1500px;
+	height:600px;
 	}
-	#gruposA{
-	list-style: none;	
-	list-style: none;
-	padding: 10px 10px 10px 10px;
-	border:	solid 2px #2b879e ;
-	margin: 60px;
-	position: relative;
-	top: 40px;
-	left: 150px;
-	width: 300px;
-	}
-	#gruposB{
-	list-style: none;	
-	list-style: none;
-	padding: 10px 10px 10px 10px;
-	border:	solid 2px #2b879e ;
-	margin: 60px;
-	position: relative;
-	bottom: 255px;
-	left: 600px;
-	width: 300px;
-	}
-	#gruposC{
-	list-style: none;	
-	list-style: none;
-	padding: 10px 10px 10px 10px;
-	border:	solid 2px #2b879e ;
-	margin: 60px;
-	position: relative;
-	bottom: 260px;
-	left: 150px;
-	width: 300px;
 	
+	h1 {
+	font-size: 5vh;
+	color: red;
 	}
-	#gruposD{
-	list-style: none;	
-	list-style: none;
-	padding: 10px 10px 10px 10px;
-	border:	solid 2px #2b879e ;
-	margin: 60px;
-	position: relative;
-	bottom: 555px;
-	left: 600px;
-	width: 300px;
+	#qatar{
+    height: 100px;
+	padding: 20px;
+
 	}
-	#gruposE{
-	list-style: none;	
-	list-style: none;
-	padding: 10px 10px 10px 10px;
-	border:	solid 2px #2b879e ;
-	margin: 60px;
-	position: relative;
-	bottom: 555px;
-	left: 150px;
-	width: 300px;
+	#ecuador{
+    height: 100px;
+	padding: 20px;
+
 	}
-	#gruposF{
-	list-style: none;	
-	list-style: none;
-	padding: 10px 10px 10px 10px;
-	border:	solid 2px #2b879e ;
-	margin: 60px;
-	position: relative;
-	bottom: 850px;
-	left: 600px;
-	width: 300px;
-	}
-	#gruposG{
-	list-style: none;	
-	list-style: none;
-	padding: 10px 10px 10px 10px;
-	border:	solid 2px #2b879e ;
-	margin: 60px;
-	position: relative;
-	bottom: 855px;
-	left: 150px;
-	width: 300px;
-	}
-	#gruposH{
-	list-style: none;	
-	list-style: none;
-	padding: 10px 10px 10px 10px;
-	border:	solid 2px #2b879e ;
-	margin: 60px;
-	position: relative;
-	bottom: 1145px;
-	left: 600px;
-	width: 300px;
-	}
-	#catar {
-	height: 30px;
-	width: 30px;
-	padding:5px
-	}
-	#equador{
-	position: relative;
-	height: 30px;
-	width: 30px;
-	padding:5px
-	}	
 	#senegal{
-	position: relative;
-	height: 30px;
-	width: 30px;	
-	padding:5px
+    height: 100px;
+  	padding: 20px;
 	}
 	#holanda{
+    height: 115px;	
+	padding: 20px;
+
+	}
+	#inglaterra{
+    height: 140px;
+	padding: 20px;
 	position: relative;
-	height: 30px;
-	width: 30px;	
-	padding:5px
+	bottom: 40px;
 	}
-	#tabela{
+	#ira{
+    height: 100px;
+	width: 80px;
+    padding: 20px;
+	}
+	#unidos{
+    height: 100px;
+	padding: 20px;
+	}
+	#gales{
+    height: 100px;
+	padding: 20px;
+	}
+	#argentina{
+    height: 120px;
+	padding: 20px;
+	
+	}
+	#arabia{
+    height: 100px;
+	padding: 20px; 
+	position: relative;
+	top: 20px;
+	}
+	#mexico{
+    height: 120px;
+	padding: 20px;
+	
+	}
+	#polonia{
+    height: 100px;
+	padding: 20px;
+	position: relative;
+	top: 10px;
+	}
+	#frança{
+    height: 120px;
+	padding: 20px;
+	
+	}
+	#australia{
+    height: 130px;
+	padding: 20px;
+	}
+	#dinamarca{
+    height: 110px;
+	padding: 20px;
+	position: relative ;
+	right: 25px;
+	top: 10px;
+	}
+	#tunisia{
+    height: 140px;
+	padding: 20px;
+	position: relative;
+	right: 70px
+	}
+	#espanha{
+    height: 110px;
+	width: 80px;
+	padding-left: 105px; 
+	}
+	#costa{
+    height: 140px;
+	padding-left: 2px; 
+    position: relative;
+	right: 30px;
+	top: 17px;
+	}
+	#alemanha{
+    height: 110px;
+	padding-left: 10px;
+    position: relative;
+	right: 70px;
+	bottom: 5px;
+	}
+	#japão{
+    height: 100px;
+	position: relative;
+	right: 30px;
+  	}
+    #belgica{
+    height: 150px;
+	padding-left: 30px;
+	position: relative;
+	right: 50px;
+	top: 15px;
+	}
+	#canada{
+    height: 100px;
+	padding-left: 30px;
+	position: relative;
+	right: 80px;
+	}
+	#marrocos{
+    height: 110px;
+	padding-left: 30px;
+	position: relative;
+	right: 90px;
+	}
+	#croacia{
+    height: 110px;
+	padding-left: 30px;
+	position: relative;
+	right: 110px;
+	}
+	#brasil{
+    height: 120px;
+	width: 80px;
+	padding-left: 105px; 
+	position: relative;
+	top: 20px;
+	}
+	#servia{
+    height: 120px;
+	padding-left: 2px; 
+    position: relative;
+    left: 10px;
+	top: 25px;
+	}
+	#suiça{
+    height: 120px;
+	padding-left: 10px;
+    position: relative;
+	top: 20px;
+	left: 10px;
+	}
+	#camaroes{
+    height: 100px;
+	padding-left: 20px;
+	position: relative;
+	top: 20px;
+	left: 10px;
+  	}
+    #portugal{
+    height: 100px;
+	padding-left: 30px;
+	position: relative;
+	top: 15px;
+	left: 20px;
+	}
+	#gana{
+    height: 120px;
+	padding-left: 30px;
+	position: relative;
+	left: 30px;
+	top: 15px;
+	}
+	#uruguai{
+    height: 110px;
+	padding-left: 30px;
+	position: relative;
+	left: 40px;
+	top: 10px;
+	}
+	#coreia{
+    height: 110px;
+	padding-left: 30px;
+	position: relative;
+	left: 25px;
+	top: 10px;
+	}
+	#timesa{
+	list-style: none;	
+	list-style: none;
+	display: flex;
+	justify-content: 40px;	
+	}
+	#timesb{
+	list-style: none;	
+	list-style: none;
+	display: flex;
+	justify-content: 40px;	
+	position: relative;
+	left: 540px;
+	bottom: 155px
+	}
+	#timesc{
+	list-style: none;	
+	list-style: none;
+	display: flex;
+	justify-content: 40px;	
+	position: relative;
+	bottom: 230px;
+	}
+	#timesd{
+	list-style: none;	
+	list-style: none;
+	display: flex;
+	justify-content: 40px;	
+	position: relative;
+	bottom: 410px;
+	left: 550px;
 	
 	}
 	
-		
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
