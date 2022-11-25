@@ -27,8 +27,6 @@ body{
 	#menu li:hover{
 	background-color: #2b879e;
 	}
-	#copa{
-	}
 	#taça {
 	height: 300px;
 	width: 300px;
@@ -54,7 +52,7 @@ body{
 	}
 	#pmascote{
 	display: flex;
-    align-items: center;	
+   	 align-items: center;	
 	border-radius: 15px;
 	box-shadow: 2px 2px 20px black;
 	}
@@ -63,12 +61,9 @@ body{
 	display: flex;
 	justify-content: space-around;	
 	position: relative;
-    top: 50px;
+    	top: 50px;
 	
-	}
-	.fotos:hover{
 	
-	}
 	#pbola{
 	font: 12px verdana, sans-serif;
 	position: relative;
