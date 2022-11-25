@@ -33,29 +33,41 @@ body{
 	height: 300px;
 	width: 300px;
 	border: solid 10px #2b879e ;	
+	border-radius: 15px;
+	box-shadow: 2px 2px 20px black;	
 	}
 	#mascote{
 	position: relative;
 	border: solid 10px #2b879e ;
 	height: 300px;
 	width: 300px;
+	border-radius: 15px;
+	box-shadow: 2px 2px 20px black;
 	}	
 	#bola{
 	position: relative;
 	border: solid 10px #2b879e ;
 	height: 300px;
-	width: 300px;	
+	width: 300px;
+	border-radius: 15px;
+	box-shadow: 2px 2px 20px black;	
 	}
 	#pmascote{
 	display: flex;
-        align-items: center;	
+    align-items: center;	
+	border-radius: 15px;
+	box-shadow: 2px 2px 20px black;
 	}
-	#fotos {
+	.fotos {
 	list-style: none;
 	display: flex;
 	justify-content: space-around;	
 	position: relative;
-        top: 50px;
+    top: 50px;
+	
+	}
+	.fotos:hover{
+	
 	}
 	#pbola{
 	font: 12px verdana, sans-serif;
@@ -66,4 +78,3 @@ body{
 
 
 	
-
