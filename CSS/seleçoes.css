@@ -27,7 +27,7 @@ body{
 	#menu li:hover{
 	background-color: #2b879e;
 	}
-	#times	{
+	.times	{
 	padding: 30px;
 	margin: 40px;
 	border-radius: 40px;
@@ -35,6 +35,10 @@ body{
     right: 30px;
 	background-image: cover;
 	height:600px;
+	}
+	.imagens:hover{
+		transform:  scale(1.125);
+	transition: 2s;	
 	}
 	
 	h1 {
@@ -44,67 +48,86 @@ body{
 	#qatar{
     height: 100px;
 	padding: 20px;
-
 	}
 	#ecuador{
     height: 100px;
 	padding: 20px;
-
+	transform:  scale(1.025);
+	transition: 2s;
 	}
 	#senegal{
     height: 100px;
   	padding: 20px;
+	transform:  scale(1.025);
+	transition: 1s;
 	}
+	
 	#holanda{
     height: 115px;	
 	padding: 20px;
-
+	transform:  scale(1.025);
+	transition: 1s;
 	}
 	#inglaterra{
     height: 140px;
 	padding: 20px;
 	position: relative;
 	bottom: 40px;
+	transform:  scale(1.025);
+	transition: 1s;
 	}
 	#ira{
     height: 100px;
 	width: 80px;
     padding: 20px;
+	transform:  scale(1.025);
+	transition: 1s;
 	}
 	#unidos{
     height: 100px;
 	padding: 20px;
+	transform:  scale(1.025);
+	transition: 1s;
 	}
 	#gales{
     height: 100px;
 	padding: 20px;
+	transform:  scale(1.025);
+	transition: 1s;
 	}
 	#argentina{
     height: 120px;
 	padding: 20px;
-	
+	transform:  scale(1.025);
+	transition: 1s;
 	}
 	#arabia{
     height: 100px;
 	padding: 20px; 
 	position: relative;
 	top: 20px;
+	transform:  scale(1.025);
+	transition: 1s;
 	}
 	#mexico{
     height: 120px;
 	padding: 20px;
-	
+	transform:  scale(1.025);
+	transition: 1s;
 	}
 	#polonia{
     height: 100px;
 	padding: 20px;
 	position: relative;
 	top: 10px;
+	transform:  scale(1.025);
+	transition: 1s;
 	}
 	#frança{
     height: 120px;
 	padding: 20px;
-	
+	transform:  scale(1.025);
+	transition: 1s;
 	}
 	#australia{
     height: 130px;
@@ -278,6 +301,7 @@ body{
 	bottom: 510px;
 	right: 85px;
 	}
+	
 	
 	
 	
