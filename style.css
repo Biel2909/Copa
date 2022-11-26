@@ -27,16 +27,22 @@ body{
 	#menu li:hover{
 	background-color: #2b879e;
 	}
+	#fifa{
+	border: solid 7px #660022  ;	
+	border-radius: 15px;
+	box-shadow: 2px 2px 20px black;	
+	align-items:center;
+	}
 	#taça {
 	height: 300px;
 	width: 300px;
-	border: solid 10px #2b879e ;	
+	border: solid 7px #660022  ;	
 	border-radius: 15px;
 	box-shadow: 2px 2px 20px black;	
 	}
 	#mascote{
 	position: relative;
-	border: solid 10px #2b879e ;
+	border: solid 7px #660022  ;
 	height: 300px;
 	width: 300px;
 	border-radius: 15px;
@@ -44,7 +50,7 @@ body{
 	}	
 	#bola{
 	position: relative;
-	border: solid 10px #2b879e ;
+	border: solid 7px #660022  ;
 	height: 300px;
 	width: 300px;
 	border-radius: 15px;
@@ -52,7 +58,7 @@ body{
 	}
 	#pmascote{
 	display: flex;
-   	 align-items: center;	
+    align-items: center;	
 	border-radius: 15px;
 	box-shadow: 2px 2px 20px black;
 	}
@@ -61,14 +67,21 @@ body{
 	display: flex;
 	justify-content: space-around;	
 	position: relative;
-    	top: 50px;
-	}	
+    top: 50px;
+	
+	}
 	#pbola{
 	font: 12px verdana, sans-serif;
 	position: relative;
 	right: 2px;	
-	}	
-		
+	}
+	#estadios {
+	height: 300px;
+	width: 400px;
+	border: solid 7px #660022  ;	
+	border-radius: 15px;
+	box-shadow: 2px 2px 20px black;	
+	}
 
 
 	
